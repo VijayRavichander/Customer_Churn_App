@@ -1,6 +1,6 @@
 App deployed at https://customer-churn-predictor.herokuapp.com/
 
-#Customer-Churn-Prediction
+# Customer-Churn-Prediction
 
 This is a mini-project for my Data Mining Class (18CSE355T). In this project , customer credit card data was used and customer churn was predicted.
 
