@@ -1,3 +1,5 @@
+App deployed at https://customer-churn-predictor.herokuapp.com/
+
 Customer-Churn-Prediction
 This is a mini-project for my Data Mining Class (18CSE355T). In this project , customer credit card data was used and customer churn was predicted.
 
@@ -9,4 +11,3 @@ Finally , this data was used to train Decision Tree Model and Random Forest Mode
 
 The random forest model was effective in it's prediction than Decision Tree with slightly better F1 score.
 
-App deployed at https://customer-churn-predictor.herokuapp.com/
